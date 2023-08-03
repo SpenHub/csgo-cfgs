@@ -1,1 +1,1 @@
-+exec _autoexec.cfg -freq 144 -fullscreen -novid -nojoy -limitvconst -forcenovsync -softparticlesdefaultoff +r_dynamic 0
++exec _autoexec.cfg -freq 144 -fullscreen -novid -nojoy
