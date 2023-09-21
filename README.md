@@ -1,4 +1,4 @@
 # csgo-cfgs
 
 ## Add these CFGs to this path:
-`\path\to\csgo\cfg\<here>`
+`\path\to\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\<here>`
